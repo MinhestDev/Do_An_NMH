@@ -1,0 +1,4 @@
+admin
+	admin@gmail.com/admin
+customer: 
+	demo@gmail.com/Demo123456789@
